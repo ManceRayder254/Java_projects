@@ -7,5 +7,3 @@ public class SumOfOddNumbers {
         System.out.println("The sum of the first 100 odd numbers is " + sum);
     }
 }
-
-`
